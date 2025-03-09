@@ -1,0 +1,41 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+.vs/
+
+# JetBrains Rider settings
+.idea/
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet packages
+*.nupkg
+
+# Temporary files
+*.tmp
+*.bak
+
+# Test results
+TestResults/
+
+# Generated files
+*.generated.cs
+
+# Global.json (if unnecessary)
+global.json
